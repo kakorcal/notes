@@ -1,0 +1,46 @@
+set scrolloff=10
+set number
+set rnu " relative number
+set tabstop=2 softtabstop=2
+set shiftwidth=2
+set expandtab
+set smartindent
+" set guicursor=
+" set nohlsearch
+" set hidden
+" set noerrorbells
+" set nu
+" set nowrap
+" set noswapfile
+" set nobackup
+" set undodir=~/.vim/undodir
+" set undofile
+" set incsearch
+
+" start vim plug script https://github.com/junegunn/vim-plug
+call plug#begin('~/.vim/plugged')
+" install fzf https://github.com/junegunn/fzf.vim
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
+" install color scheme
+Plug 'ayu-theme/ayu-vim'
+" end vim plug script
+call plug#end()
+
+" colorscheme koehler
+" syntax enable
+set termguicolors
+let ayucolor = "dark"
+colorscheme ayu
+
+let mapleader = " " " Special key that needs to be pressed before running custom commands
+" n = normal mode 
+" nore = no recursive execution. if there are multiple maps with the same keys, it won't execute all of them
+" map = create new map 
+nnoremap <leader>pv :Vex<CR>
+" reinitialize vimrc with space and enter
+nnoremap <leader><CR> :so ~/.vimrc<CR>
+" Use space fg to open git files with vim-plug fzf
+nnoremap <leader>fg :GFiles<CR>
+" Use space ff to open files with vim-plug fzf
+nnoremap <leader>ff :Files<CR>
