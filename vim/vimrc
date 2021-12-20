@@ -24,6 +24,7 @@ Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 " install color scheme
 Plug 'ayu-theme/ayu-vim'
+Plug 'preservim/nerdtree'
 " end vim plug script
 call plug#end()
 
@@ -42,5 +43,5 @@ nnoremap <leader>pv :Vex<CR>
 nnoremap <leader><CR> :so ~/.vimrc<CR>
 " Use space fg to open git files with vim-plug fzf
 nnoremap <leader>fg :GFiles<CR>
-" Use space ff to open files with vim-plug fzf
+" Use space to open files with vim-plug fzf
 nnoremap <leader>ff :Files<CR>
