@@ -45,3 +45,15 @@ nnoremap <leader><CR> :so ~/.vimrc<CR>
 nnoremap <leader>fg :GFiles<CR>
 " Use space to open files with vim-plug fzf
 nnoremap <leader>ff :Files<CR>
+" Jump down 20 spaces
+nnoremap <C-j> 20j
+" Jump up 20 spaces
+nnoremap <C-k> 20k
+" Copy into system clipboard
+" nnoremap <leader>y "+y
+" Copy entire file into system clipboard
+" nnoremap <leader>Y gg"+yG
+" Move code down and maintain indentation
+vnoremap J :m '>+1<CR>gv=gv
+" Move code up and maintain indentation
+vnoremap K :m '<-2<CR>gv=gv

@@ -24,12 +24,24 @@
 6. k - move up one space
 7. { - move up one paragraph
 8. } - move down one paragraph
+9. % - move to the next bracket pair then toggle (),[],or{}
 
 # Combos
 1. dG - delete everything from cursor to bottom of file
 2. ggdG - delete everything in file
 3. dtLETTER - delete up to but not including the letter inputted
 4. dfLETTER - delete up to the letter inputted
+5. SHIFTvBRACKET%d - delete a code block
+6. diPAIRS - delete everything between pairs of brackets or strings. Recommend cursor to be inside the pair but for some reason it works for strings if cursor is outside: 
+7. ciPAIRS - same thing as diPAIRS except it goes into insert mode afterwards
+8. viPAIRS - same thing as diPAIRS except it goest into visual mode afterwards
+9. daPAIRS - delete everything between pairs of brackets or strings including the bracket or string. Recommend cursor to be inside the pair but for some reason it works for strings if cursor is outside: 
+10. caPAIRS - same thing as daPAIRS except it goes into insert mode afterwards
+11. vaPAIRS - same thing as daPAIRS except it goes into visual mode afterwards
+12. vaBRACKETSSHIFTv - hightlight entire code block
+13. yiPAIRS - same thing as diPAIRS except it yanks the text
+14. viw - highlight word from within the word
+15. viW - highlight word including symbols until the whitespace from within the word
 
 # Misc
 * [Link to cheatsheet](https://vim.rtorr.com/)
