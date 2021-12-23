@@ -38,7 +38,13 @@ let mapleader = " " " Special key that needs to be pressed before running custom
 " n = normal mode 
 " nore = no recursive execution. if there are multiple maps with the same keys, it won't execute all of them
 " map = create new map 
-nnoremap <leader>pv :Vex<CR>
+
+" Use NetRw (default navigator on vim) to open explorer
+" nnoremap <leader>e :20Vex<CR>
+" Use NERDtree explorer
+nnoremap <leader>ex :NERDTree<CR> 
+nnoremap <leader>eg :NERDTreeVCS<CR> 
+nnoremap <leader>ec :NERDTreeClose<CR> 
 " reinitialize vimrc with space and enter
 nnoremap <leader><CR> :so ~/.vimrc<CR>
 " Use space fg to open git files with vim-plug fzf
