@@ -14,3 +14,13 @@
 | Pros |<ul><li>Lightweight (faster boot / less resource intensive) since it only installs applications and its bin/lib dependencies</li><li>Easier to scale and move into different environments</li></ul>|  
 | Cons |<ul><li>Relies on host OS. Cannot use applications or docker images that aren't compitible with underlying host OS</li><li>Weaker security boundaries because all containers within a computer operates on the same OS</li></ul>|
 
+---
+
+# Resources
+
+* [Link 1](https://www.youtube.com/watch?v=XCWWPpfdbsM)
+* [Link 2](https://www.youtube.com/watch?v=5GanJdbHlAA)
+* [Link 3](https://www.youtube.com/watch?v=9_s3h_GVzZc)
+* [Link 4](https://www.youtube.com/watch?v=TvnZTi_gaNc)
+* [Link 5](https://blog.engineyard.com/containers-vs-virtual-machines-differences-pros-cons)
+* [Link 6](https://www.backblaze.com/blog/vm-vs-containers/)
