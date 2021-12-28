@@ -4,11 +4,10 @@ source $(brew --prefix)/share/antigen/antigen.zsh
 antigen use oh-my-zsh
 
 antigen bundle z
-antigen bundle vi-mode
-
-antigen theme https://github.com/denysdovhan/spaceship-zsh-theme spaceship
-
+antigen bundle jeffreytse/zsh-vi-mode
 antigen bundle zsh-users/zsh-syntax-highlighting
+
+antigen theme spaceship-prompt/spaceship-prompt
 
 antigen apply
 # End antigen
