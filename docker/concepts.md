@@ -16,6 +16,12 @@
 
 ---
 
+# Open questions
+
+1. How does linux-based docker image run on macOS? ANS: Seems like docker has a built in [VM](https://stackoverflow.com/questions/66618003/why-is-it-possible-to-run-linux-containers-on-docker-in-macos)
+
+---
+
 # Resources
 
 * [Link 1](https://www.youtube.com/watch?v=XCWWPpfdbsM)
