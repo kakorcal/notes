@@ -1,0 +1,18 @@
+# Start antigen
+source $(brew --prefix)/share/antigen/antigen.zsh
+
+antigen use oh-my-zsh
+
+antigen bundle z
+antigen bundle vi-mode
+
+antigen theme https://github.com/denysdovhan/spaceship-zsh-theme spaceship
+
+antigen bundle zsh-users/zsh-syntax-highlighting
+
+antigen apply
+# End antigen
+
+alias cdp="cd ~/Documents/projects"
+alias notes="vim ~/Documents/projects/notes"
+alias todos="vim ~/Documents/todos"
