@@ -30,3 +30,5 @@
 * [Link 4](https://www.youtube.com/watch?v=TvnZTi_gaNc)
 * [Link 5](https://blog.engineyard.com/containers-vs-virtual-machines-differences-pros-cons)
 * [Link 6](https://www.backblaze.com/blog/vm-vs-containers/)
+* [Link 7](https://collabnix.com/how-docker-for-mac-works-under-the-hood/) (How docker works on mac)
+* [Link 8](https://dev.to/lakhansamani/create-docker-image-on-apple-silicon-m1-mac-2f75) (Docker on M1 mac)
