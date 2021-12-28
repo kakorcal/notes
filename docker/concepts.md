@@ -22,6 +22,14 @@
 
 ---
 
+# Container parts
+
+1. chroot - jail directories (file systems)
+2. namespaces - jail processes / network / users etc (capabilities)
+3. cgroups - jail cpu / memory etc (resources)
+
+---
+
 # Resources
 
 * [Link 1](https://www.youtube.com/watch?v=XCWWPpfdbsM)
@@ -32,3 +40,4 @@
 * [Link 6](https://www.backblaze.com/blog/vm-vs-containers/)
 * [Link 7](https://collabnix.com/how-docker-for-mac-works-under-the-hood/) (How docker works on mac)
 * [Link 8](https://dev.to/lakhansamani/create-docker-image-on-apple-silicon-m1-mac-2f75) (Docker on M1 mac)
+* [Link 9](https://frontendmasters.com/courses/complete-intro-containers) (Frontend masters course on Containers)

@@ -6,3 +6,7 @@
  * [minimal zsh + antigen config](https://medium.com/@falieson/setup-zsh-w-antigen-and-a-spacey-theme-7a66808218dc)
  * [oh my zsh default plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins) (could install them individually with antigen)
  * [big list of zsh plugins](https://github.com/unixorn/awesome-zsh-plugins)
+
+# Issues
+
+1. Bad CPU type in executable. [LINK](https://linuxpip.org/fix-bad-cpu-type-in-executable/)
