@@ -30,6 +30,10 @@
 
 ---
 
+# Virtual Private Server
+
+[VPSs](https://superuser.com/questions/1471167/whats-the-difference-between-vm-and-vps) are servers that you could rent from hosting companies. They could either be VMs or Containers.
+
 # Resources
 
 * [Link 1](https://www.youtube.com/watch?v=XCWWPpfdbsM)
