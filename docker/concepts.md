@@ -29,6 +29,13 @@ Seems like docker desktop has a built in [Linux](https://stackoverflow.com/quest
  Architecture: aarch64
 ```
 
+2. What to do when this warning shows: 
+```
+WARNING: The requested image's platform (linux/amd64) does not match the detected host platform (linux/arm64/v8) and no specific platform was requested
+```
+ANS:
+Might need to [pass](https://stackoverflow.com/questions/67458621/how-to-run-amd64-docker-images-on-arm64-host-platform) a `--platform` [flag](https://stackoverflow.com/questions/66662820/m1-docker-preview-and-keycloak-images-platform-linux-amd64-does-not-match-th)
+
 ---
 
 # Container parts
