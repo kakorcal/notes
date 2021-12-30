@@ -18,7 +18,16 @@
 
 # Open questions
 
-1. How does linux-based docker image run on macOS? ANS: Seems like docker desktop has a built in [Linux](https://stackoverflow.com/questions/43383276/how-does-docker-run-a-linux-kernel-under-macos-host) [VM](https://stackoverflow.com/questions/66618003/why-is-it-possible-to-run-linux-containers-on-docker-in-macos)
+1. How does linux-based docker image run on macOS?
+ANS:
+Seems like docker desktop has a built in [Linux](https://stackoverflow.com/questions/43383276/how-does-docker-run-a-linux-kernel-under-macos-host) [VM](https://stackoverflow.com/questions/66618003/why-is-it-possible-to-run-linux-containers-on-docker-in-macos). Also if you run `docker info` it will show the following output:
+
+```
+ Kernel Version: 5.10.76-linuxkit
+ Operating System: Docker Desktop
+ OSType: linux
+ Architecture: aarch64
+```
 
 ---
 
