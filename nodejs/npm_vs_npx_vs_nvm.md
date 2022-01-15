@@ -4,7 +4,7 @@
 2. CLI tool for installation, version, and dependency management of packages
 
 
-# What is NPX (Node Package Executer)
+# What is [NPX](https://nodejs.dev/learn/the-npx-nodejs-package-runner) (Node Package Executer)
 
 1. With NPX you can run NPM commands without the need to install the package on your machine (npx cowsay wow). You could also run a gist.
 2. It's prebundled in version 5.2.0 of NPM
@@ -14,6 +14,10 @@
 1. Test package compatibility
 2. Initialization and one-time use
 3. Work env constraints
+
+## Issues
+
+1. npx prompts: `Need to install the following packages:` [LINK](https://github.com/nodejs/nodejs.dev/issues/1849)
 
 
 # What is NVM (Node Version Manager)
