@@ -17,7 +17,7 @@
 
 ## Issues
 
-1. npx prompts: `Need to install the following packages:` [LINK](https://github.com/nodejs/nodejs.dev/issues/1849)
+1. npx prompts: `Need to install the following packages:` [LINK](https://github.com/nodejs/nodejs.dev/issues/1849) [LINK](https://stackoverflow.com/questions/69006097/does-npx-no-longer-do-install-less-run)
 
 
 # What is NVM (Node Version Manager)

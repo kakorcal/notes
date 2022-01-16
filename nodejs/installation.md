@@ -35,3 +35,7 @@ nvm install --lts
 nvm use --lts
 ```
 
+# Misc
+
+1. How NPM can [break the internet](https://www.theregister.com/2016/03/23/npm_left_pad_chaos/)
+
