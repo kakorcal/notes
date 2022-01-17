@@ -4,4 +4,7 @@ The easiest way to download music for commercial or non-commercial use is throug
 
 More free music platforms can be found [here](https://newbluefx.com/blog/5-free-music-resources/).
 
+# More links about creative commons
 
+1. [LINK](https://libguides.hccfl.edu/c.php?g=1043360&p=7568409)
+2. [LINK](https://designmodo.com/free-music-sounds/)
