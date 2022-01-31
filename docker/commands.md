@@ -14,3 +14,6 @@
 | `docker inspect IMAGE` | Shows info about an image |
 | `docker info` | Displays host OS info |
 | `docker search IMAGE` | Search for images on docker hub |
+| `docker run -it --rm jturpin/hollywood hollywood` | Hacker! |
+| `docker run -it --rm bcbcarl/hollywood` | Hacker! |
+
