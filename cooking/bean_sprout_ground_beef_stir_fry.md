@@ -1,5 +1,7 @@
 # Bean sprout and ground beef stir fry
 
+https://www.manilaspoon.com/2021/01/korean-style-sauteed-beef-with-bean-sprouts-and-cabbage.html
+
 ## Ingredients
 
 1. Bean sprouts (3~4 cups)
