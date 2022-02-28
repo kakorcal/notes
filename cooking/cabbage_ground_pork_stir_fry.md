@@ -3,8 +3,8 @@
 https://www.the-girl-who-ate-everything.com/keto-egg-roll-in-a-bowl/
 
 1. Ground pork (1~1.5lb)
-2. Ginger (1~2 thumbs)
-3. Garlic (3~4 cloves)
+2. Ginger (1 thumbs)
+3. Garlic (2 cloves)
 4. Cabbage (One large bowl full thinly sliced)
 5. Green onions (1/2 cup)
 6. Soy sauce (1/4 cup)
