@@ -50,8 +50,15 @@ This is the percentage amount of each fund you have in your portfolio. For examp
 15% TIPS
 15% Real Estate
 
+## Misc notes
+
+If you buy, hold, and reinvest capital gains and dividends for total market or S&P 500 index funds, over the long run you can expect 10% in returns per year. If it's a 10% per year return, your money doubles every 7.2 years.
+
+
 ## Resources
 
 1. [Fidelity Index Funds for Beginners](https://www.youtube.com/watch?v=8I7hEKKw7qM&list=PLDi3MjT_eu48UOHc5rXrq8TqQ8yNu2YGk)
 2. [Fidelity Index Funds for Beginners pt2](https://www.youtube.com/watch?v=FQBlPkebDHg)
-
+3. [Case study for FXAIX](https://www.youtube.com/watch?v=WVhBNbC3vIg)
+4. [Investment calculator](https://americanfundsretirement.retire.americanfunds.com/tools/calculators/investment-calculator.htm)
+5. [Best Fidelity stocks as of 2022](https://www.youtube.com/watch?v=cHex4CiH1b4)
