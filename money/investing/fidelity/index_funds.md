@@ -12,25 +12,25 @@ Index fund is a pool of multiple company shares that determines the asset alloca
 
 ## Recommended Fidelity Mutual Fund Index Funds
 
-1. Domestic (USA company) stocks
+1. Domestic (USA company) stocks  
    FSKAX Fidelity Total Market Index Fund
    FXAIX Fidelity 500 Index Fund
    FNILX Fidelity ZERO Large Cap Index Fund
    FZROX Fidelity ZERO Total Market Index Fund
 
-2. International
+2. International  
    FSPSX Fidelity International Index Fund
 
-3. Emerging Market
+3. Emerging Market  
    FPADX Emerging Markets Index Fund
 
-4. US Treasury Bonds
+4. US Treasury Bonds  
    FUAMX Fidelity Intermediate Treasury Bond Index Fund
 
-5. US TIPS (Inflation Protected Bonds)
+5. US TIPS (Inflation Protected Bonds)  
    FIPDX Fidelity Inflation Protected Bond Index Fund
 
-6. Real Estate
+6. Real Estate  
    FSRNX Fidelity Real Estate Index Fund
 
 ## Asset Allocation
@@ -39,10 +39,10 @@ This is the percentage amount of each fund you have in your portfolio. For examp
 
 ### Strategies
 
-1. Jack Bogle
+1. Jack Bogle  
 100 - your age = percentage amount to own in stocks
 
-2. David Swenson
+2. David Swenson  
 30% Domestic
 15% International
 10% Emerging Market
