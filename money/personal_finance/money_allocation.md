@@ -2,10 +2,10 @@
 
 ## 50-20-30 budget
 
-30k into savings for emergency fund (6~10 month backup expenses)
-15%~20% of gross income into investments (401k, Roth IRA, Brokerage, HSA, 529, Real Estate)
-50%~60% of gross income into house, utilities, groceries, transportation, insurance
-20%~30% of gross income into recreation, personal, donations
+30k into savings for emergency fund (6~10 month backup expenses)  
+15%~20% of gross income into investments (401k, Roth IRA, Brokerage, HSA, 529, Real Estate)  
+50%~60% of gross income into house, utilities, groceries, transportation, insurance  
+20%~30% of gross income into recreation, personal, donations  
 
 Any money left over should go into paying off house
 

@@ -21,12 +21,12 @@ To account for inflation, you could reinvest 2% back into the investment to ensu
 
 ## Case study
 
-Salary: $75k annually
-No debt / car / medical payments except for house
-Take home pay after tax: $56250
-Left expenses: $16875 per year or $1406.25 per month 
-Allocate rest of 70%: Emergency, investment
-If expenses maintain the freedom number will be: $506250
+Salary: $75k annually  
+No debt / car / medical payments except for house  
+Take home pay after tax: $56250  
+Left expenses: $16875 per year or $1406.25 per month  
+Allocate rest of 70%: Emergency, investment  
+If expenses maintain the freedom number will be: $506250  
 
 If you invested all $39375 every year into an index fund and expected a 8% return each year: You will reach the $570408.40 in 10 years
 
@@ -39,8 +39,8 @@ If you invested all $39375 every year into an index fund and expected a 8% retur
 | $50k | $1.5M |
 | $100k | $3M |
 
-For every $100/month you spend, you need to have $36k invested
-For every $5000/month you spend, you need to have $1.8M invested
+For every $100/month you spend, you need to have $36k invested  
+For every $5000/month you spend, you need to have $1.8M invested  
 
 ## Resources
 
