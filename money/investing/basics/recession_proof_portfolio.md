@@ -12,6 +12,11 @@
 
 Only buy stocks at margin-of-safety price. This means to buy a stock at a very low price compared to its intrinsic value. 
 
+## Interest rate and stock correlation
+
+In general if interest rates rise, stock prices fall.
+
 ## Resources
 
 1. [Recession Proof Portfolio](https://www.youtube.com/watch?v=CLbeR-cA09M)
+2. [Interest rates](https://www.youtube.com/watch?v=eIrXYHNOoCA)
