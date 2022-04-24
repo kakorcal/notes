@@ -23,6 +23,8 @@
 4. Daikon radish
 5. Nira
 6. Korean BBQ nori
+7. Green beans
+8. Bean sprouts
 
 # Cooking
 
