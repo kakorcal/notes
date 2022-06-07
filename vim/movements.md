@@ -36,6 +36,9 @@
 6. p - paste
 7. c - change to insert mode after deleting
 8. s - sentance. goes to insert mode after deleting
+9. <ctrl-r> - redo
+10. u - undo
+11. r - replace. Type r then type the next character that will replace the existing one
 
 # Combos
 1. dG - delete everything from cursor to bottom of file
