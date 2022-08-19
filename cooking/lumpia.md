@@ -2,7 +2,7 @@
 
 # Cooking
 
-1. Vegatable oil temperature: 350F
+1. Vegatable oil temperature (350F)
 
 # Links
 
