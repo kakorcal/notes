@@ -1,1 +1,0 @@
-This directory includes all the static resources (images/audio/video/etc) used throughout this repository

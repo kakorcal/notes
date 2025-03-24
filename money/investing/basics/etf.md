@@ -20,7 +20,7 @@ If you don't reinvest you dividends bank into your fund, it will just be placed 
 
 ## Recommendations
 
-![etf recommendations](../../../_/etf-recommendations-v1.png)
+![etf recommendations](./etf-recommendations-v1.png)
 
 ## Resources
 

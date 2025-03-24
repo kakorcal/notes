@@ -12,11 +12,11 @@ There are several platforms in which you can invest your money into. Each have t
 
 Each investment platform have taxable events at different timings
 
-![investment-account-taxation](../../../_/investment-account-taxation-v1.png)
+![investment-account-taxation](./investment-account-taxation-v1.png)
 
 For ordinary brokerage accounts, if you have long-term capital gains, you might not need to pay taxes if your gains are below $80k married. Note though however you would need to pay dividend taxes yearly.
 
-![ordinary-brokerage-account-taxation](../../../_/ordinary-brokerage-account-taxation-v1.png)
+![ordinary-brokerage-account-taxation](./ordinary-brokerage-account-taxation-v1.png)
 
 ## Resources
 

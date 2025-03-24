@@ -1,6 +1,6 @@
 # Backdoor Roth Ira
 
-![can-i-do-a-backdoor-roth](../../../_/can-i-do-a-backdoor-roth-v1.png)
+![can-i-do-a-backdoor-roth](./can-i-do-a-backdoor-roth-v1.png)
 
 ## Steps
 

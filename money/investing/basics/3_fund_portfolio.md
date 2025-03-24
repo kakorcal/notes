@@ -16,7 +16,7 @@ When you hold those 3 funds above, you are basically investing in every stock / 
 
 As of 2022, Vanguard ETFs are the only funds that can be bought on any platform. Also, there are funds that have the 'total market' name but they actually do not hold every stock in the market.
 
-![recommended-funds-v1](../../../_/recommended-funds-v1.png)
+![recommended-funds-v1](./recommended-funds-v1.png)
 
 ### 401k
 
@@ -26,7 +26,7 @@ Most likely a 401k will not have a total market index fund so you'll need to rep
 
 % of stocks vs bonds depends on your risk tolerance. Here is a chart showing the performance of stock / bond mixes in the last 30 years (from 2022). For example, if you put 100% in stocks, you have the risk of losing 50% of the money during the 2008 housing crash. You would've had to keep investing for 5 more years to recover the loss. 
 
-![stock-bond-allocation-v1](../../../_/stock-bond-allocation-v1.png)
+![stock-bond-allocation-v1](./stock-bond-allocation-v1.png)
 
 ## Rebalancing
 
