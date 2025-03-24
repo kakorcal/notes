@@ -23,3 +23,4 @@
 6. [Mega backdoor roth ira](https://www.youtube.com/watch?v=vnJhlez80Vc)
 7. [Form 8606 walkthrough](https://www.youtube.com/watch?v=Q9V1qz2rJIQ)
 8. [Form 8606](https://www.youtube.com/shorts/YgkwirvH-r0)
+9. [Unexpected interest](https://www.reddit.com/r/fidelityinvestments/comments/16xh3e0/backdoor_roth_ira_unexpected_interest_in/)
