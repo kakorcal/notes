@@ -21,4 +21,5 @@
 4. [How to setup a backdoor roth ira on fidelity](https://www.youtube.com/watch?v=lNjZRPkNY5U)
 5. [Difference between traditional and roth ira](https://www.yieldstreet.com/resources/article/difference-between-roth-and-traditional-iras/?utm_source=google&utm_medium=cpc&utm_campaign=Dynamic&utm_content=IRA&gclid=CjwKCAiAsYyRBhACEiwAkJFKorYrmKFTS-4MWngkR3z2QjssRXLVReRPqBoFpBwB0XOo-bve93q5whoCRRYQAvD_BwE)
 6. [Mega backdoor roth ira](https://www.youtube.com/watch?v=vnJhlez80Vc)
-7. [Form 8606](https://www.youtube.com/watch?v=Q9V1qz2rJIQ)
+7. [Form 8606 walkthrough](https://www.youtube.com/watch?v=Q9V1qz2rJIQ)
+8. [Form 8606](https://www.youtube.com/shorts/YgkwirvH-r0)
