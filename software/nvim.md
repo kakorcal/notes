@@ -30,9 +30,11 @@
 28. `n <leader>st` = [custom-telescope] search for git files
 29. `shift+k` = [mason-LSP] show type and/or function signature
 30. `:%s/<regex>/<replacement>/<options>` = [vim] search and replace entire file. Tip: use \(.\) to capture a group then reference it with \1..n
+31. `:'<,'>s/<regex>/<replacement>/<options>` = [vim] search and replace highlighted texts. Tip: use ^ for beginning of line and $ for end of line additions
 
 -- Todo
 fork kickstart in order to push into my own repo
+edit all highlighted texts at once
 format code with proper indentation
 adding, removing, renaming files and folders
 reindex numbers
@@ -40,7 +42,7 @@ node debugger
 tmux commands (going back and forth projects)
 git diff shower (fugitive)
 closing all files and opening new ones
-
+handling other languages like Japanese or Spanish
 
 ## vim
 
